@@ -7,5 +7,5 @@ Hosted website at: [GIIS Hackathon 2021](giistechclub.co "Hackathon website") or
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dcf53d70-53e9-4c2d-9715-e7e6a91c9393/deploy-status)](https://giistechclub.ml)
 
 # Note:
-Images and other media will not be uploaded to maintain the privacy of the people depicted. You could use your own images in the missing img fields.
+Images and other media will not be uploaded to protect the privacy of the people depicted. You could use your own images in the missing img fields.
 
